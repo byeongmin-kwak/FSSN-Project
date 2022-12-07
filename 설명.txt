@@ -1,0 +1,15 @@
+FSSN 프로젝트
+
+1. node version 확인
+
+Node.js v19.2.0.
+
+2. 의존성 설치
+
+npm install
+
+3. 파일 실행
+
+node server.js
+
+node client.js
